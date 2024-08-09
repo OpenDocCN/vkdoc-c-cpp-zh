@@ -4,7 +4,7 @@
 > 
 > 要打多久，就打多久，一直打到完全胜利！——教员
 
-* [在线阅读](https://vkcc.flygon.net)
+* [在线阅读](https://vdcc.flygon.net)
 ## 下载
 
 ### Docker
