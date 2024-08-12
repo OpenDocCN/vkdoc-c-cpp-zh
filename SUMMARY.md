@@ -18,5 +18,4 @@
 +   [面向零基础初学者的现代 C++ 教程](docs/mod-cpp-abs-begin/README.md)
 +   [C 到 C++ 迁移手册](docs/mov-ccpp/README.md)
 +   [C++ 设计实践教程](docs/prac-cpp-design/README.md)
-+   [C++ 市场交易系统算法测试和调优](docs/test-tune-mkt-trade-sys-algo-cpp/README.md)
 +   [C++ 标准模板库使用教程](docs/use-cpp-std-temp-lib/README.md)
